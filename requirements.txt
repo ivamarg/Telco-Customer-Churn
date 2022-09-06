@@ -11,3 +11,5 @@ yellowbrick
 catboost
 xgboost
 shap
+flask
+pickle
