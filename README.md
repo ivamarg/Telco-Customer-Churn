@@ -29,14 +29,14 @@ Also assessed the impact of covariates on survival using Cox proportional hazard
   
   ```
   cd Telco-Customer-Churn
-  python -m venv custchurn_env 
+  python3 -m venv custchurn_env 
   source custchurn_env/bin/activate
   pip install -r requirements.txt
   ```
 
   __4. Run the app__
   ```
-  python app.py
+  python3 app.py
   ```
 
 ### Using Docker
