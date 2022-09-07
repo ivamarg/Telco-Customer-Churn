@@ -12,4 +12,4 @@ catboost
 xgboost
 shap
 flask
-pickle
+gunicorn
